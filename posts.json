@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exploring the Serene Beaches of Bali",
+      "slug": "exploring-the-serene-beaches-of-bali",
+      "body": "<p>Bali, the Island of Gods, is renowned for its picturesque beaches and stunning landscapes</p>"
+    },
+    {
+      "id": 2,
+      "title": "A Safari Adventure in the Heart of Africa",
+      "slug": "a-safari-adventure-in-the-heart-of-africa",
+      "body": "<p>Embark on a once-in-a-lifetime safari adventure in the heart of Africa...</p>"
+    }
+  ]
+}
